@@ -1,3 +1,6 @@
+MAIN.js
+\\ EightBall Exercise
+
 let userName = ''
 let userQuestion = ''
 let randomNumber = Math.floor(Math.random()*8)
